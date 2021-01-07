@@ -1,4 +1,4 @@
-config = {
+{
     "batch_size": 64, 
     "embedding_dim": 64,
     "num_vocab": 0, 
